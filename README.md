@@ -10,8 +10,6 @@ The protocol handler application is currently set up to listen for 'openfile' or
 
 I left in the debug pauses and logs as this is just a proof of concept and I'm sharing as it may be of use to others.
 
-![Registering the protocol handler as admin](01.RegisteringTheProtocolHandlerAsAdmin.png)
-
 ![02. Example.gif](02.%20Example.gif)
 
 ## Usage on the front-end
